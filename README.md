@@ -3,7 +3,7 @@
 hysteria2 纯净版一键安装
 
 ```
-wget -N --no-check-certificate https://github.com/352928958songqian-del/hysteria2-install/raw/refs/heads/main/hysteria2-install-main/hy2/hysteria.sh
+wget -N --no-check-certificate https://github.com/352928958songqian-del/hysteria2-install/raw/refs/heads/main/hysteria2-install-main/hy2/hysteria.sh && chmod +x hysteria.sh && ./hysteria.sh
 ```
 v2rayN设置中socks5监听端口: 5678
 
